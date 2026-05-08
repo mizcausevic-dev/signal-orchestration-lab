@@ -1,16 +1,16 @@
 # Signal Orchestration Lab
 
-![Hero](screenshots/01-hero.svg)
+![Hero](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/01-hero-v2.svg)
 
 ## Executive Summary
 
-Signal Orchestration Lab is a recruiter-ready Python + FastAPI backend that
+Signal Orchestration Lab is a Python + FastAPI backend that
 ingests cross-functional operating signals, models their dependencies, and
 routes them into coordinated response plans. It is designed to feel like the
 infrastructure brain behind growth systems, briefing surfaces, and executive
 control rooms.
 
-## Recruiter Takeaway
+## Why It Matters
 
 This repo demonstrates:
 
@@ -48,6 +48,7 @@ flowchart LR
   F --> O["Dependency ordering"]
   O --> R["Routed actions"]
   O --> G["Graph edges"]
+```
 ```
 
 ## Sample Request
@@ -104,16 +105,16 @@ flowchart LR
 ## Screenshots
 
 ### Hero
-![Hero](screenshots/01-hero.svg)
+![Hero](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/01-hero-v2.svg)
 
 ### Orchestration Graph
-![Graph](screenshots/02-graph.svg)
+![Graph](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/02-graph-v2.svg)
 
 ### Routed Actions
-![Actions](screenshots/03-actions.svg)
+![Actions](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/03-actions-v2.svg)
 
 ### Validation Proof
-![Proof](screenshots/04-proof.svg)
+![Proof](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/04-proof-v2.svg)
 
 ## Setup
 

@@ -12,6 +12,15 @@ app = FastAPI(
     ),
 )
 
+
+@app.get("/")
+def root() -> dict[str, str]:
+    return {
+        "name": settings.app_name,
+        "status": "ok",
+        "docs": "/docs",
+    }
+
+
 app.include_router(health.router)
 app.include_router(orchestration.router)
-

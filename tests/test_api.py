@@ -7,6 +7,14 @@ from app.sample_data import SAMPLE_ORCHESTRATIONS
 client = TestClient(app)
 
 
+def test_root_returns_service_metadata() -> None:
+    response = client.get("/")
+    assert response.status_code == 200
+    payload = response.json()
+    assert payload["status"] == "ok"
+    assert payload["docs"] == "/docs"
+
+
 def test_healthcheck_returns_ok() -> None:
     response = client.get("/health")
     assert response.status_code == 200
@@ -40,4 +48,3 @@ def test_analyze_graph_returns_edges() -> None:
     payload = response.json()
     assert "nodes" in payload
     assert "edges" in payload
-
