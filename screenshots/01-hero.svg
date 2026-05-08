@@ -1,0 +1,38 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#07121C"/>
+  <rect x="48" y="42" width="1344" height="816" rx="34" fill="#101B29" stroke="#233652" stroke-width="2"/>
+  <text x="90" y="122" fill="#81D0FF" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="8">SIGNAL ORCHESTRATION LAB</text>
+  <text x="90" y="218" fill="#F4EDD8" font-family="Georgia, serif" font-size="66" font-weight="700">
+    <tspan x="90" dy="0">Turn disconnected pressure into</tspan>
+    <tspan x="90" dy="72">a response order the business can follow.</tspan>
+  </text>
+  <text x="90" y="340" fill="#AEBAD0" font-family="Segoe UI, Arial, sans-serif" font-size="28">
+    <tspan x="90" dy="0">Signal nodes arrive from revenue, growth, AI, customer, ops, and security.</tspan>
+    <tspan x="90" dy="38">The engine scores urgency, respects dependencies, and routes action in sequence.</tspan>
+  </text>
+  <rect x="90" y="432" width="294" height="160" rx="24" fill="#17263B" stroke="#294365"/>
+  <rect x="414" y="432" width="294" height="160" rx="24" fill="#17263B" stroke="#294365"/>
+  <rect x="738" y="432" width="294" height="160" rx="24" fill="#17263B" stroke="#294365"/>
+  <rect x="1062" y="432" width="294" height="160" rx="24" fill="#17263B" stroke="#294365"/>
+  <text x="122" y="480" fill="#9AA9C9" font-family="Segoe UI, Arial, sans-serif" font-size="18">ORCHESTRATIONS</text>
+  <text x="122" y="546" fill="#F4EDD8" font-family="Georgia, serif" font-size="54" font-weight="700">9</text>
+  <text x="122" y="578" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Live cross-functional playbooks</text>
+  <text x="446" y="480" fill="#9AA9C9" font-family="Segoe UI, Arial, sans-serif" font-size="18">NODES MODELED</text>
+  <text x="446" y="546" fill="#F4EDD8" font-family="Georgia, serif" font-size="54" font-weight="700">34</text>
+  <text x="446" y="578" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Signals normalized into one graph</text>
+  <text x="770" y="480" fill="#9AA9C9" font-family="Segoe UI, Arial, sans-serif" font-size="18">ESCALATED PATHS</text>
+  <text x="770" y="546" fill="#F4EDD8" font-family="Georgia, serif" font-size="54" font-weight="700">4</text>
+  <text x="770" y="578" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Chains already above executive threshold</text>
+  <text x="1094" y="480" fill="#9AA9C9" font-family="Segoe UI, Arial, sans-serif" font-size="18">AVG. CONFIDENCE</text>
+  <text x="1094" y="546" fill="#F4EDD8" font-family="Georgia, serif" font-size="54" font-weight="700">0.84</text>
+  <text x="1094" y="578" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Strong enough to coordinate action</text>
+  <rect x="90" y="636" width="1266" height="164" rx="24" fill="#162334" stroke="#294162"/>
+  <text x="124" y="690" fill="#F2B7D8" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="6">LEAD ORCHESTRATION</text>
+  <text x="124" y="744" fill="#F4EDD8" font-family="Georgia, serif" font-size="44" font-weight="700">
+    Northstar should stabilize pipeline coverage before routing, attribution, and identity drag compound.
+  </text>
+  <text x="124" y="784" fill="#B3BED4" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    This is orchestration logic for operating systems, not just one more analytics API.
+  </text>
+</svg>
+
