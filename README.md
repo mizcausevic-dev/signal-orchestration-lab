@@ -1,6 +1,6 @@
 # Signal Orchestration Lab
 
-![Hero](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/01-hero-v2.svg)
+![Hero](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/01-hero-v3.svg)
 
 ## Executive Summary
 
@@ -105,16 +105,16 @@ flowchart LR
 ## Screenshots
 
 ### Hero
-![Hero](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/01-hero-v2.svg)
+![Hero](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/01-hero-v3.svg)
 
 ### Orchestration Graph
-![Graph](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/02-graph-v2.svg)
+![Graph](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/02-graph-v3.svg)
 
 ### Routed Actions
-![Actions](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/03-actions-v2.svg)
+![Actions](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/03-actions-v3.svg)
 
 ### Validation Proof
-![Proof](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/04-proof-v2.svg)
+![Proof](https://raw.githubusercontent.com/mizcausevic-dev/signal-orchestration-lab/main/screenshots/04-proof-v3.svg)
 
 ## Setup
 
