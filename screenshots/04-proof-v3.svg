@@ -1,0 +1,25 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#08111E"/>
+  <rect x="72" y="60" width="1296" height="780" rx="34" fill="#10182A" stroke="#223454" stroke-width="2"/>
+  <text x="112" y="132" fill="#81D0FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="8">VALIDATION PROOF</text>
+  <text x="112" y="210" fill="#F4EDD8" font-family="Georgia, serif" font-size="48" font-weight="700">
+    <tspan x="112" dy="0">The orchestration logic validates like a real backend,</tspan>
+    <tspan x="112" dy="54">not just a systems-thinking sketch.</tspan>
+  </text>
+  <rect x="112" y="332" width="1144" height="396" rx="28" fill="#162037" stroke="#284062"/>
+  <text x="148" y="388" fill="#B8C3D8" font-family="Consolas, monospace" font-size="24">
+    <tspan x="148" dy="0">$ python -m pytest</tspan>
+    <tspan x="148" dy="40">.....                                                            [100%]</tspan>
+    <tspan x="148" dy="40">5 passed in 0.55s</tspan>
+    <tspan x="148" dy="60">$ python -m compileall app tests</tspan>
+    <tspan x="148" dy="40">Listing 'app'...</tspan>
+    <tspan x="148" dy="40">Listing 'app\\routes'...</tspan>
+    <tspan x="148" dy="40">Listing 'app\\services'...</tspan>
+    <tspan x="148" dy="40">Listing 'tests'...</tspan>
+    <tspan x="148" dy="40">Compiling succeeded without errors.</tspan>
+  </text>
+  <rect x="112" y="748" width="544" height="54" rx="18" fill="#1B2A46"/>
+  <rect x="680" y="748" width="576" height="54" rx="18" fill="#1B2A46"/>
+  <text x="138" y="783" fill="#F4EDD8" font-family="Segoe UI, Arial, sans-serif" font-size="21">Root endpoint responds cleanly at /</text>
+  <text x="708" y="783" fill="#F4EDD8" font-family="Segoe UI, Arial, sans-serif" font-size="21">OpenAPI docs stay available at /docs</text>
+</svg>

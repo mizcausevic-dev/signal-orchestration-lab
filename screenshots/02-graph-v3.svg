@@ -1,0 +1,41 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#07121C"/>
+  <rect x="64" y="52" width="1312" height="796" rx="34" fill="#111A2A" stroke="#233652" stroke-width="2"/>
+  <text x="110" y="126" fill="#81D0FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="8">ORCHESTRATION GRAPH</text>
+  <text x="110" y="206" fill="#F4EDD8" font-family="Georgia, serif" font-size="50" font-weight="700">
+    <tspan x="110" dy="0">See what must unblock what,</tspan>
+    <tspan x="110" dy="56">before the team burns a sprint in the wrong order.</tspan>
+  </text>
+  <circle cx="246" cy="450" r="88" fill="#1A2A43" stroke="#34598A" stroke-width="2"/>
+  <circle cx="552" cy="598" r="82" fill="#1A2A43" stroke="#34598A" stroke-width="2"/>
+  <circle cx="870" cy="418" r="82" fill="#1A2A43" stroke="#34598A" stroke-width="2"/>
+  <circle cx="1160" cy="598" r="82" fill="#1A2A43" stroke="#34598A" stroke-width="2"/>
+  <circle cx="1160" cy="324" r="72" fill="#1A2A43" stroke="#34598A" stroke-width="2"/>
+  <path d="M324 474L474 558" stroke="#7DD3FC" stroke-width="6"/>
+  <path d="M634 560L786 456" stroke="#7DD3FC" stroke-width="6"/>
+  <path d="M948 432L1086 554" stroke="#7DD3FC" stroke-width="6"/>
+  <path d="M940 370L1088 338" stroke="#F2B7D8" stroke-width="6"/>
+  <path d="M326 414L788 394" stroke="#F2B7D8" stroke-width="4" stroke-dasharray="10 10"/>
+
+  <text x="194" y="434" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19">Revenue</text>
+  <text x="156" y="464" fill="#F4EDD8" font-family="Georgia, serif" font-size="26" font-weight="700">Coverage</text>
+
+  <text x="516" y="586" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19">Ops</text>
+  <text x="460" y="616" fill="#F4EDD8" font-family="Georgia, serif" font-size="24" font-weight="700">Routing backlog</text>
+
+  <text x="832" y="402" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19">Growth</text>
+  <text x="776" y="432" fill="#F4EDD8" font-family="Georgia, serif" font-size="24" font-weight="700">Attribution drift</text>
+
+  <text x="1116" y="586" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19">Security</text>
+  <text x="1064" y="616" fill="#F4EDD8" font-family="Georgia, serif" font-size="24" font-weight="700">Review drag</text>
+
+  <text x="1134" y="312" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19">AI</text>
+  <text x="1056" y="340" fill="#F4EDD8" font-family="Georgia, serif" font-size="22" font-weight="700">Fallback cost</text>
+
+  <rect x="110" y="716" width="1198" height="92" rx="20" fill="#17263B" stroke="#2A4264"/>
+  <text x="142" y="766" fill="#B4BED4" font-family="Segoe UI, Arial, sans-serif" font-size="20">
+    <tspan x="142" dy="0">Solid paths show direct operational unblockers.</tspan>
+    <tspan x="142" dy="28">Dashed paths show commercial amplification that still changes the right response order.</tspan>
+  </text>
+</svg>
+
