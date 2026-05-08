@@ -1,0 +1,28 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#08111D"/>
+  <rect x="70" y="56" width="1300" height="788" rx="34" fill="#10192A" stroke="#223454" stroke-width="2"/>
+  <text x="118" y="130" fill="#81D0FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="8">ROUTED ACTIONS</text>
+  <text x="118" y="210" fill="#F4EDD8" font-family="Georgia, serif" font-size="54" font-weight="700">
+    <tspan x="118" dy="0">Sequence the response chain,</tspan>
+    <tspan x="118" dy="60">don’t just tag owners and hope.</tspan>
+  </text>
+  <rect x="118" y="324" width="1204" height="136" rx="24" fill="#17263B" stroke="#294365"/>
+  <rect x="118" y="486" width="1204" height="136" rx="24" fill="#17263B" stroke="#294365"/>
+  <rect x="118" y="648" width="1204" height="136" rx="24" fill="#17263B" stroke="#294365"/>
+  <text x="150" y="374" fill="#F36B8A" font-family="Segoe UI, Arial, sans-serif" font-size="20">1 · CRITICAL · Revenue Operations · 8 days</text>
+  <text x="150" y="420" fill="#F4EDD8" font-family="Georgia, serif" font-size="32" font-weight="700">Coordinate around pipeline coverage compression</text>
+  <text x="150" y="452" fill="#B7C1D7" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+    Highest pressure node with two downstream dependencies across growth and ops.
+  </text>
+  <text x="150" y="536" fill="#F7B24D" font-family="Segoe UI, Arial, sans-serif" font-size="20">2 · HIGH · Growth Analytics · 6 days</text>
+  <text x="150" y="582" fill="#F4EDD8" font-family="Georgia, serif" font-size="32" font-weight="700">Coordinate around attribution confidence drift</text>
+  <text x="150" y="614" fill="#B7C1D7" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+    Fixing source clarity prevents the commercial team from optimizing around blurred signals.
+  </text>
+  <text x="150" y="698" fill="#86F1A8" font-family="Segoe UI, Arial, sans-serif" font-size="20">3 · HIGH · Operations · 5 days</text>
+  <text x="150" y="744" fill="#F4EDD8" font-family="Georgia, serif" font-size="32" font-weight="700">Coordinate around routing backlog spillover</text>
+  <text x="150" y="776" fill="#B7C1D7" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+    Backlog cleanup only pays off after the commercial pressure order is understood.
+  </text>
+</svg>
+
