@@ -119,7 +119,7 @@ flowchart LR
 ## Setup
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\signal-orchestration-lab"
+cd signal-orchestration-lab
 py -3.11 -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install .[dev]
@@ -133,7 +133,7 @@ Open:
 ## Validation
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\signal-orchestration-lab"
+cd signal-orchestration-lab
 python -m pytest
 python -m compileall app tests
 ```
